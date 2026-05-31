@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wanman"
+version = "0.1.0"
+description = "A multi-agent platform for autonomous repository takeover and maintenance"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    { name = "Wanman Contributors" },
+]
+keywords = ["agents", "automation", "repository", "multi-agent"]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Quality Assurance",
+]
+
+[project.scripts]
+wanman = "src.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/zhangruilin/demo-repo"
+Repository = "https://github.com/zhangruilin/demo-repo"
+Issues = "https://github.com/zhangruilin/demo-repo/issues"
+
+[tool.setuptools.packages.find]
+include = ["src*"]
