@@ -11,3 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - README expansion with project overview and setup instructions
 - .gitignore for common development artifacts
+- CHANGELOG.md with Keep a Changelog format
+- Architecture overview documentation
+- CONTRIBUTING.md with contribution guidelines
+- MIT LICENSE file
