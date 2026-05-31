@@ -47,8 +47,8 @@ Initiative
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/zhangruilin/demo-repo
+cd demo-repo
 
 # Initialize wanman
 wanman init

@@ -16,14 +16,14 @@ Thank you for your interest in contributing to Wanman! This guide covers everyth
 2. Clone your fork locally:
 
    ```bash
-   git clone https://github.com/<your-username>/wanman.git
-   cd wanman
+   git clone https://github.com/<your-username>/demo-repo.git
+   cd demo-repo
    ```
 
 3. Add the upstream remote:
 
    ```bash
-   git remote add upstream https://github.com/wanman/wanman.git
+   git remote add upstream https://github.com/zhangruilin/demo-repo.git
    ```
 
 4. Keep your fork up to date before starting work:
