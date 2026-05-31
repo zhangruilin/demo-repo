@@ -87,7 +87,7 @@ gh pr create --title "feat: add retry logic to API client"
 
 ## Documentation
 
-- [Architecture Overview](docs/architecture.md) — detailed system design and agent interactions
+- [Architecture Overview](docs/ARCHITECTURE.md) — detailed system design and agent interactions
 - [Contributing Guide](CONTRIBUTING.md) — how to contribute to this project
 
 ## License
