@@ -8,7 +8,7 @@ Thank you for your interest in contributing to Wanman! This guide covers everyth
 
 - Git and [GitHub CLI](https://cli.github.com/) (`gh`) authenticated
 - Access to the wanman platform
-- Familiarity with the [Architecture Overview](docs/architecture.md)
+- Familiarity with the [Architecture Overview](docs/ARCHITECTURE.md)
 
 ### Fork and Clone
 
